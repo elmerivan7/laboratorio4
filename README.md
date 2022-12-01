@@ -2,6 +2,8 @@ JENKINFILE
 Nombrar como archivo docker-compose.yml.
 Como segundo paso copiar con el siguiente contenido
 ##########################################################################################
+
+
 version: "3"
 
 services:
